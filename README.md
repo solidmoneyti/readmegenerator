@@ -29,4 +29,6 @@ By cloning the code to their local drive, updated features and sending me a mail
 A/B test
 
 ## Questions
-If you have any questions, you can reach out to me via [GitHub](https://github.com/solidmoneyti) or email at iyanutaiwo@gmail.com.
+If you have any questions, you can reach out to me via [GitHub](https://github.com/solidmoneyti) or email at iyanutaiwo@gmail.com.  https://drive.google.com/file/d/11Qj1HkbLfBrY0BBCkLWP1KxjFhqctT3Y/view?usp=sharing
+
+
