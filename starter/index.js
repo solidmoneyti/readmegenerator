@@ -56,7 +56,7 @@ inquirer.prompt([
     const readmeContent = generateMarkdown(data);
     
     // Write README file
-    fs.writeFile('README.md', readmeContent, (err) =>
+    fs.writeFile('./starter/README.md', readmeContent, (err) =>
         err ? console.error(err) : console.log('README.md successfully generated!')
     );
 })
